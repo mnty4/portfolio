@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+main {
+    /*display: table;*/
+}
+
+#main-header {
+    width: 100vw;
+    height: 100vh;
+    background-color: #444;
+    display: flex;
+    justify-content: center;
+}
+#title-div {
+    text-align: left;
+    display: inline-block;
+}
+#header-title {
+    font-size: 48px;
+    font-family: monospace;
+    color: rgb(21, 185, 226);
+    margin: 0;
+}
+#header-caption {
+    font-size: 24px;
+    font-style: italic;
+    font-family: serif;
+    color: #FFF;
+    margin: 0;
+    padding: 0 0 0 20px;
+    
+}
